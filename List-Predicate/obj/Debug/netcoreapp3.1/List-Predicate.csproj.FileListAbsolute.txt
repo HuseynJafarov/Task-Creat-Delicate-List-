@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.exe
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.deps.json
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.dll
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\bin\Debug\netcoreapp3.1\List-Predicate.pdb
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.dll
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.pdb
+C:\Users\HP\Desktop\C#\Lab\List-Predicate\List-Predicate\obj\Debug\netcoreapp3.1\List-Predicate.genruntimeconfig.cache
